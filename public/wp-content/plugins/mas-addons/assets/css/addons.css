@@ -1,0 +1,370 @@
+.elementor-widget-text-editor .elementor-drop-cap {
+    line-height: 0;
+}
+
+/* Video Butoon Animation  */
+
+.elementor-icon {
+    display: inline-flex !important;
+}
+
+/*---------------------------------------------------
+    BREADCRUMB
+    ----------------------------------------------------*/
+
+/*---------------------------------------------------
+MAIN MENU
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+    BUTTON
+    ----------------------------------------------------*/
+
+
+/* Button Style */
+
+/* Button Style two*/
+
+
+
+/*Youtube Button Style Three*/
+
+/*Button Style Four*/
+
+
+
+
+/*---------------------------------------------------
+FEATURE BOX
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+PRICING BOX
+----------------------------------------------------*/
+
+/* Pricing Menu Start */
+
+/* Pricing List End */
+
+/* Pricing Table Start */
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+/*---------------------------------------------------
+Pricing Table
+----------------------------------------------------*/
+
+/* .mas-addons-pricing-area .mas-addons-pricing-item.focused a.mas-addons-btn.btn-type-boxed,.mas-addons-pricing-item.pricing-box-not-loop .mas-addons-btn.btn-type-boxed {
+    background-color: var(--accent-color);
+    color: #fff;
+    border-color: var(--accent-color);
+} */
+
+/* .mas-addons-pricing-item.focused a.mas-addons-btn.btn-type-boxed {
+    background-color: var(--accent-color);
+    color: var(--white-color);
+} */
+
+/* pricing switcher  */
+
+/* pricing-switcher-tab */
+
+/* Pricing dynamic css */
+
+
+/* Pricing Badge */
+
+
+
+/*---------------------------------------------------
+LINEICON BOX
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+TEAM CARD
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+    CSS TRANSFORM
+    ----------------------------------------------------*/
+
+/*---------------------------------------------------
+    JQUERY FATEPICKER
+    ----------------------------------------------------*/
+
+/*---------------------------------------------------
+SERVICE
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+HEADDING
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+DUAL HEADDING
+----------------------------------------------------*/
+
+/*    .mas-addons-dual-heading .mas-addons-dual-heading-wrapper .mas-addons-dual-heading-title .first-heading, .mas-addons-dual-heading .mas-addons-dual-heading-wrapper .mas-addons-dual-heading-title .second-heading {
+        padding: 15px 10px;
+    } */
+
+/*---------------------------------------------------
+BLOG
+----------------------------------------------------*/
+
+/* default style  */
+
+/* Blog style v2  */
+
+/* arrow */
+
+/*
+* pagination css
+*/
+
+/*
+        Hover
+        */
+
+/* .mas-addons-post-widget-item.post-style-style-two .post-content-wrap {
+    visibility: visible;
+    opacity: 1;
+    bottom: 0;
+}
+
+.post-meta-bottom svg, .post-meta-bottom i {
+    margin-right: 12px;
+    font-size: 15px;
+    width: 15px;
+}
+
+.post-style-style-two .post-meta-bottom .mas-addons-comment:before {
+    display: none;
+}
+.mas-addons-post-widget-item.post-style-style-two .post-content-wrap {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.67) 45.14%, rgba(0, 0, 0, 0) 100%);
+}
+
+.post-style-style-two .post-meta-bottom .mas-addons-comment {
+    padding-left: 0;
+}
+
+.post-style-style-two span.byline .author {
+    position: relative;
+    margin-right: 25px;
+    padding-right: 25px;
+}
+
+.post-style-style-two span.byline .author:after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 1px;
+    height: 100%;
+    background-color: #fff;
+    content: "";
+} */
+
+/*---------------------------------------------------
+BLOG CATEGORY
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+BACK TO SCROLL
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+PORTFOLIO
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+blog
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+VERTICAL MENU
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+SLIDER
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+STICKY
+----------------------------------------------------*/
+
+/* megamenu builder css  */
+
+/*---------------------------------------------------
+COUNTDOWN
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+CONTACT FORM
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+LOGIN FORM
+----------------------------------------------------*/
+
+/* check box */
+
+/* reset password */
+
+/*---------------------------------------------------
+  ACCORDION
+  ----------------------------------------------------*/
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title {
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title h3 {
+    width: 100%;
+    font-size: 15px;
+}
+
+.mas-addons-accordion-single-item h3 {
+    font-weight: 600;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title:hover {
+    cursor: pointer;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title .mas-addons-active-inactive-icon {
+    position: relative;
+    margin-left: 15px;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title span.mas-addons-tab-title-icon {
+    position: relative;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title .mas-addons-active-icon i,
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title .mas-addons-inactive-icon i,
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title span.mas-addons-tab-title-icon i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title .mas-addons-active-icon svg,
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title .mas-addons-inactive-icon svg,
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title span.mas-addons-tab-title-icon svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title .mas-addons-active-icon {
+    display: none;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-content {
+    display: none;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-title .mas-addons-active-inactive-icon {
+    width: 70px;
+    margin-left: auto;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-content .mas-addons-accordion-content-wrapper {
+    display: flex;
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-content .mas-addons-accordion-content-wrapper .mas-addons-accordion-button a {
+    display: inline-block;
+}
+
+@media only screen and (max-width: 767px) {
+    .mas-addons-accordion-items .mas-addons-accordion-single-item .mas-addons-accordion-content .mas-addons-accordion-content-wrapper {
+        flex-direction: column;
+    }
+}
+
+.mas-addons-accordion-items .mas-addons-accordion-single-item:last-child {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+/*---------------------------------------------------
+  PROGRESS BAR
+  ----------------------------------------------------*/
+
+/* pricing badge  */
+
+/*---------------------------------------------------
+BRAND LOGO
+----------------------------------------------------*/
+
+/* arrow */
+
+/* the slides */
+
+/* the parent */
+
+/*---------------------------------------------------
+CARD
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+TAB
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+RESPONSIVE CSS
+----------------------------------------------------*/
+
+@media only screen and (min-width: 1350px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1320px;
+    }
+}
+
+@media only screen and (max-width:991px) and (min-width:768px) {
+
+    /* Main menu  */
+}
+
+@media only screen and (max-width:767px) {
+
+    /* Main menu  */
+}
+
+/* Image Overflow Hidden */
+
+.elementor-widget-image .elementor-widget-container {
+    overflow: hidden;
+}
+
+
+/*---------------------------------------------------
+VIDEO BUTTON
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+CONTENT SWITCHER
+----------------------------------------------------*/
+
+
+/*---------------------------------------------------
+GROUP LIST
+----------------------------------------------------*/
+
+/* List Group CSS End */
