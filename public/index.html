@@ -761,7 +761,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // If user visited within the last 48h → fast load
   const visitedRecently = getCookie("baldVisited") === "true";
-  const minDisplayTime = visitedRecently ? 250 : 2000; // 0.25s or 2s
+  const minDisplayTime = visitedRecently ? 250 : 1500; // 0.25s or 1.5s
   const startTime = Date.now();
 
   let loaderDone = false;
